@@ -1,0 +1,1633 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Letter.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Letter.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\blue-theme.css",
+      "PackagePath": "staticwebassets\\css\\blue-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\crocus-theme.css",
+      "PackagePath": "staticwebassets\\css\\crocus-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\dropdown-effects\\fade-down.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-effects\\fade-down.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\dropdown-effects\\fade-left.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-effects\\fade-left.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\dropdown-effects\\fade-right.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-effects\\fade-right.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\dropdown-effects\\fade-up.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-effects\\fade-up.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\dropdown-effects\\rotate-x.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-effects\\rotate-x.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\dropdown-effects\\rotate-y.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-effects\\rotate-y.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\green-theme.css",
+      "PackagePath": "staticwebassets\\css\\green-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\lunar.css",
+      "PackagePath": "staticwebassets\\css\\lunar.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\magenta-theme.css",
+      "PackagePath": "staticwebassets\\css\\magenta-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\pink-theme.css",
+      "PackagePath": "staticwebassets\\css\\pink-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\purple-theme.css",
+      "PackagePath": "staticwebassets\\css\\purple-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\red-theme.css",
+      "PackagePath": "staticwebassets\\css\\red-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\skyblue-theme.css",
+      "PackagePath": "staticwebassets\\css\\skyblue-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\css\\violet-theme.css",
+      "PackagePath": "staticwebassets\\css\\violet-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\fonts\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\a2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\a2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\a2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\a2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\a2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\a2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\a2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\a2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\a4-1.png",
+      "PackagePath": "staticwebassets\\images\\a4-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\a4-2.png",
+      "PackagePath": "staticwebassets\\images\\a4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\apple-touch-icon-120x120.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\apple-touch-icon-152x152.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-152x152.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\apple-touch-icon-76x76.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-76x76.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\bg-03.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\bg-04.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\bg-05.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\blog\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-1-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-1-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-10-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-10-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-11-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-11-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-12-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-12-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-13-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-13-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-14-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-14-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-2-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-2-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-3-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-3-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-4-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-4-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-5-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-5-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-6-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-6-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-7-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-7-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-8-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-8-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blog\\post-9-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-9-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\blur-purple.png",
+      "PackagePath": "staticwebassets\\images\\blur-purple.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-1-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-1-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-1.png",
+      "PackagePath": "staticwebassets\\images\\brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-10.png",
+      "PackagePath": "staticwebassets\\images\\brand-10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-2.png",
+      "PackagePath": "staticwebassets\\images\\brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-21-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-21-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-21.png",
+      "PackagePath": "staticwebassets\\images\\brand-21.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-22-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-22-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-22.png",
+      "PackagePath": "staticwebassets\\images\\brand-22.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-23-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-23-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-23.png",
+      "PackagePath": "staticwebassets\\images\\brand-23.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-3-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-3-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-3.png",
+      "PackagePath": "staticwebassets\\images\\brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-4-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-4-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-4.png",
+      "PackagePath": "staticwebassets\\images\\brand-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-5-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-5-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-5.png",
+      "PackagePath": "staticwebassets\\images\\brand-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-6-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-6-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-6.png",
+      "PackagePath": "staticwebassets\\images\\brand-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-7-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-7-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-7.png",
+      "PackagePath": "staticwebassets\\images\\brand-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-8-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-8-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-8.png",
+      "PackagePath": "staticwebassets\\images\\brand-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-9-white.png",
+      "PackagePath": "staticwebassets\\images\\brand-9-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\brand-9.png",
+      "PackagePath": "staticwebassets\\images\\brand-9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\blue.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\crocus.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\crocus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\green.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\green.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\magenta.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\magenta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\pink.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\pink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\purple.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\purple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\red.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\skyblue.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\skyblue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\color-scheme\\violet.jpg",
+      "PackagePath": "staticwebassets\\images\\color-scheme\\violet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\comment-author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\comment-author-2.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\comment-author-3.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\comment-author-4.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-author-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-01.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-02.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-03.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-03.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-04.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-04.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-05.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-05.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-06.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-06.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-07.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-07.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-08.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-08.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\dashboard-09.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-09.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\error-404.png",
+      "PackagePath": "staticwebassets\\images\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_01.png",
+      "PackagePath": "staticwebassets\\images\\f_01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_01_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_01_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_02.png",
+      "PackagePath": "staticwebassets\\images\\f_02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_02_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_02_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_03.png",
+      "PackagePath": "staticwebassets\\images\\f_03.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_03_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_03_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_04.png",
+      "PackagePath": "staticwebassets\\images\\f_04.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_04_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_04_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_05.png",
+      "PackagePath": "staticwebassets\\images\\f_05.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_05_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_05_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_06.png",
+      "PackagePath": "staticwebassets\\images\\f_06.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_06_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_06_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_07.png",
+      "PackagePath": "staticwebassets\\images\\f_07.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_07_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_07_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_08.png",
+      "PackagePath": "staticwebassets\\images\\f_08.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_08_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_08_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_09.png",
+      "PackagePath": "staticwebassets\\images\\f_09.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_09_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_09_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_10.png",
+      "PackagePath": "staticwebassets\\images\\f_10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_11.png",
+      "PackagePath": "staticwebassets\\images\\f_11.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\f_11_dark.png",
+      "PackagePath": "staticwebassets\\images\\f_11_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\help.png",
+      "PackagePath": "staticwebassets\\images\\help.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-1-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-1-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-10-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-10-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-10.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-11-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-11-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-11.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-12.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-13-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-13-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-14.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-15-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-15-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-15-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-15-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-15.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-16-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-16-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-16.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-17-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-17-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-17.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-18-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-18-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-18-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-18-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-18.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-2-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-2-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-20.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-21-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-21-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-21-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-21-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-21.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-22.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-23-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-23-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-23.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-24.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-25-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-25-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-25-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-25-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-25.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-26-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-26-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-26.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-27-dark.png",
+      "PackagePath": "staticwebassets\\images\\hero-27-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-27.png",
+      "PackagePath": "staticwebassets\\images\\hero-27.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-4.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-5-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-5-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-5.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\hero-8.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-01.png",
+      "PackagePath": "staticwebassets\\images\\img-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-02.png",
+      "PackagePath": "staticwebassets\\images\\img-02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-03.png",
+      "PackagePath": "staticwebassets\\images\\img-03.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-04.png",
+      "PackagePath": "staticwebassets\\images\\img-04.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-05.png",
+      "PackagePath": "staticwebassets\\images\\img-05.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-06.png",
+      "PackagePath": "staticwebassets\\images\\img-06.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-07-dark.png",
+      "PackagePath": "staticwebassets\\images\\img-07-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-07.png",
+      "PackagePath": "staticwebassets\\images\\img-07.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-08.png",
+      "PackagePath": "staticwebassets\\images\\img-08.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-09.png",
+      "PackagePath": "staticwebassets\\images\\img-09.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-10.png",
+      "PackagePath": "staticwebassets\\images\\img-10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-11.png",
+      "PackagePath": "staticwebassets\\images\\img-11.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-12.png",
+      "PackagePath": "staticwebassets\\images\\img-12.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-13.png",
+      "PackagePath": "staticwebassets\\images\\img-13.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-14.png",
+      "PackagePath": "staticwebassets\\images\\img-14.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-15.png",
+      "PackagePath": "staticwebassets\\images\\img-15.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-16.png",
+      "PackagePath": "staticwebassets\\images\\img-16.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-17.jpg",
+      "PackagePath": "staticwebassets\\images\\img-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-18.png",
+      "PackagePath": "staticwebassets\\images\\img-18.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\img-19.png",
+      "PackagePath": "staticwebassets\\images\\img-19.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\login-wrapper.jpg",
+      "PackagePath": "staticwebassets\\images\\login-wrapper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\login_dark.jpg",
+      "PackagePath": "staticwebassets\\images\\login_dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\images\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-blog-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-blog-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-blog.png",
+      "PackagePath": "staticwebassets\\images\\logo-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-blue-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-blue-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-blue.png",
+      "PackagePath": "staticwebassets\\images\\logo-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-magenta-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-magenta-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-magenta.png",
+      "PackagePath": "staticwebassets\\images\\logo-magenta.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-pink-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-pink-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-pink.png",
+      "PackagePath": "staticwebassets\\images\\logo-pink.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-purple-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-purple-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-purple.png",
+      "PackagePath": "staticwebassets\\images\\logo-purple.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-skyblue-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-skyblue-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-skyblue.png",
+      "PackagePath": "staticwebassets\\images\\logo-skyblue.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-violet-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-violet-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-violet.png",
+      "PackagePath": "staticwebassets\\images\\logo-violet.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\modal-1-img.jpg",
+      "PackagePath": "staticwebassets\\images\\modal-1-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\modal-2-img.jpg",
+      "PackagePath": "staticwebassets\\images\\modal-2-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\modal-newsletter-blue.jpg",
+      "PackagePath": "staticwebassets\\images\\modal-newsletter-blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\modal-newsletter-purple.jpg",
+      "PackagePath": "staticwebassets\\images\\modal-newsletter-purple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\modal-newsletter-violet.jpg",
+      "PackagePath": "staticwebassets\\images\\modal-newsletter-violet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\modal-request.jpg",
+      "PackagePath": "staticwebassets\\images\\modal-request.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\mp.mp3",
+      "PackagePath": "staticwebassets\\images\\mp.mp3"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pattern-01.png",
+      "PackagePath": "staticwebassets\\images\\pattern-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pattern-02.png",
+      "PackagePath": "staticwebassets\\images\\pattern-02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pattern-03.png",
+      "PackagePath": "staticwebassets\\images\\pattern-03.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pattern-04.png",
+      "PackagePath": "staticwebassets\\images\\pattern-04.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pexels-cottonbro-studio-4114739.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-cottonbro-studio-4114739.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pexels-craig-adderley-1543762.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-craig-adderley-1543762.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pexels-george-dolgikh-2072149.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-george-dolgikh-2072149.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\pexels-vjapratama-935789.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-vjapratama-935789.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\png_icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\am.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\am.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\bitcoin.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\bitcoin.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\citi.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\citi.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\discover.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\discover.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\ebay.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\ebay.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\google.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\ideal.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\ideal.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\jcb.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\jcb.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\loud-speaker.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\loud-speaker.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\mac-os.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\mac-os.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\shopify.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\shopify.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-1.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-10.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-11.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-11.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-12.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-12.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-13.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-13.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-14.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-14.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-2.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-3.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-4.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-5.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-6.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-7.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-8.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\tool-9.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\tool-9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\visa.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\windows.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\windows.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\png_icons\\wu.png",
+      "PackagePath": "staticwebassets\\images\\png_icons\\wu.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\post-author.jpg",
+      "PackagePath": "staticwebassets\\images\\post-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\projects\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-01.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-02.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-03.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-04.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-05.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-06.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-07.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-08.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-09.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-10.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-10a.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-10a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-11.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\projects\\project-11a.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-11a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\reset-password.jpg",
+      "PackagePath": "staticwebassets\\images\\reset-password.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\reset-password_dark.jpg",
+      "PackagePath": "staticwebassets\\images\\reset-password_dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-2.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-3.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-4.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-5.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-6.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-7.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\review-author-8.jpg",
+      "PackagePath": "staticwebassets\\images\\review-author-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\square-logo.png",
+      "PackagePath": "staticwebassets\\images\\square-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\store_badges\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\amazon-01.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\amazon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\amazon-02.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\amazon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\android.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\android.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\appstore-white.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\appstore-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\appstore.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\appstore.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\chrome.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\galaxystore.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\galaxystore.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\googleplay-white.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\googleplay-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\googleplay.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\googleplay.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\huawei.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\huawei.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\macstore.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\macstore.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\microsoft-01.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\microsoft-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\microsoft-02.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\microsoft-02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\shopify.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\shopify.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\store_badges\\windows-10.png",
+      "PackagePath": "staticwebassets\\images\\store_badges\\windows-10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\tablet-01.png",
+      "PackagePath": "staticwebassets\\images\\tablet-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\tablet-02.png",
+      "PackagePath": "staticwebassets\\images\\tablet-02.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\tablet-03.png",
+      "PackagePath": "staticwebassets\\images\\tablet-03.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\tablet-04.png",
+      "PackagePath": "staticwebassets\\images\\tablet-04.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\tablet-05.png",
+      "PackagePath": "staticwebassets\\images\\tablet-05.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-10.jpg",
+      "PackagePath": "staticwebassets\\images\\team-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-11.jpg",
+      "PackagePath": "staticwebassets\\images\\team-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-12.jpg",
+      "PackagePath": "staticwebassets\\images\\team-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-13.jpg",
+      "PackagePath": "staticwebassets\\images\\team-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-5.jpg",
+      "PackagePath": "staticwebassets\\images\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-6.jpg",
+      "PackagePath": "staticwebassets\\images\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-7.jpg",
+      "PackagePath": "staticwebassets\\images\\team-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-8.jpg",
+      "PackagePath": "staticwebassets\\images\\team-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\images\\team-9.jpg",
+      "PackagePath": "staticwebassets\\images\\team-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\comment-form.js",
+      "PackagePath": "staticwebassets\\js\\comment-form.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\contact-form.js",
+      "PackagePath": "staticwebassets\\js\\contact-form.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.7.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\lunar.js",
+      "PackagePath": "staticwebassets\\js\\lunar.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\pricing-toggle.js",
+      "PackagePath": "staticwebassets\\js\\pricing-toggle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\quick-form.js",
+      "PackagePath": "staticwebassets\\js\\quick-form.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\request-form.js",
+      "PackagePath": "staticwebassets\\js\\request-form.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\reset-form.js",
+      "PackagePath": "staticwebassets\\js\\reset-form.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Letter\\Letter.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Letter.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Letter.WebUI.props",
+      "PackagePath": "build\\Letter.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Letter.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\Letter.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Letter.WebUI.props",
+      "PackagePath": "buildTransitive\\Letter.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
