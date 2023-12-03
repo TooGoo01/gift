@@ -1,6 +1,8 @@
 ﻿@{
 	Layout = null;
 }
+@model RegisterUserDto
+@inject IViewLocalizer Localizer
 <!doctype html>
 <!-- Martex - Software, App, SaaS & Startup Landing Pages Pack design by DSAThemes (http://www.dsathemes.com) -->
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -110,61 +112,57 @@
 								<!-- SIGN UP FORM -->
 								<div class="col-md-6">
 									<div class="register-page-form">
-										<form name="signupform" class="row sign-up-form">
+										<form method="post"  class="row sign-up-form">
 
 											<!-- Google Button -->
-											<div class="col-md-12">
-												<a href="#" class="btn btn-google ico-left">
-													<img src="images/png_icons/google.png" alt="google-icon"> Sign up with Google
-												</a>
-											</div>
+										
 
 											<!-- Login Separator -->
 											<div class="col-md-12 text-center">
-												<div class="separator-line">Or, sign up with your email</div>
+												<div class="separator-line">@Localizer["Signup"]</div>
+											</div>
+											<div asp-validation-summary="ModelOnly" style="font-style:normal !important" class="text-danger mb-2 "></div>
+											<!-- Form Input -->
+											<div class="col-md-12">
+												<p class="p-sm input-header">@Localizer["Name"]</p>
+												<input class="form-control name" asp-for="@Model.Name" type="text"placeholder="John">
+											</div>
+											<div class="col-md-12">
+												<p class="p-sm input-header">@Localizer["Surname"]</p>
+												<input class="form-control name" asp-for="@Model.Surname" type="text" placeholder="Doe">
 											</div>
 
 											<!-- Form Input -->
 											<div class="col-md-12">
-												<p class="p-sm input-header">Full name</p>
-												<input class="form-control name" type="text" name="name" placeholder="John Doe">
+												<p class="p-sm input-header">@Localizer["Phone"]</p>
+												<input class="form-control email" asp-for="@Model.Phone" type="text" placeholder="050*******">
 											</div>
 
 											<!-- Form Input -->
 											<div class="col-md-12">
-												<p class="p-sm input-header">Email address</p>
-												<input class="form-control email" type="email" name="email" placeholder="example@example.com">
-											</div>
-
-											<!-- Form Input -->
-											<div class="col-md-12">
-												<p class="p-sm input-header">Password</p>
+												<p class="p-sm input-header">@Localizer["Password"]</p>
 												<div class="wrap-input">
 													<span class="btn-show-pass ico-20"><span class="flaticon-visibility eye-pass"></span></span>
-													<input class="form-control password" type="password" name="password" placeholder="min 8 characters">
+													<input class="form-control password" asp-for="@Model.Password" type="password" placeholder="min 8 characters">
 												</div>
 											</div>
-
-											<!-- Checkbox -->
 											<div class="col-md-12">
-												<div class="form-data">
-													<span>
-														By clicking “Create Account”, you agree to our
-														<a href="terms.html">Terms</a> and that you have read our
-														<a href="privacy.html"> Privacy Policy</a>
-													</span>
+												<p class="p-sm input-header">@Localizer["CheckPassword"]</p>
+												<div class="wrap-input">
+													<span class="btn-show-pass ico-20"><span class="flaticon-visibility eye-pass"></span></span>
+													<input class="form-control password" asp-for="@Model.ConfirmPassword" type="password" placeholder="min 8 characters">
 												</div>
 											</div>
 
 											<!-- Form Submit Button -->
 											<div class="col-md-12">
-												<button type="submit" class="btn btn--theme hover--theme submit">Create Account</button>
+												<button type="submit" class="btn btn--theme hover--theme submit">@Localizer["Register"]</button>
 											</div>
 
 											<!-- Log In Link -->
 											<div class="col-md-12">
 												<p class="create-account text-center">
-													Already have an account? <a href="login-2.html" class="color--theme">Log in</a>
+													@Localizer["Log1"] <a asp-action="Login" asp-controller="Account" class="color--theme">@Localizer["Login"]</a>
 												</p>
 											</div>
 

@@ -1,0 +1,9 @@
+﻿namespace Letter.DataAccess.Entities.Lang
+{
+    public enum Lang
+    {
+        az,
+        en,
+        ru
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\bin\Debug\net6.0\Letter.DataAccess.deps.json
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\bin\Debug\net6.0\Letter.DataAccess.runtimeconfig.json
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\bin\Debug\net6.0\Letter.DataAccess.dll
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\bin\Debug\net6.0\Letter.DataAccess.pdb
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.dll
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\refint\Letter.DataAccess.dll
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.pdb
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\Letter.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Desktop\gift\Letter.DataAccess\obj\Debug\net6.0\ref\Letter.DataAccess.dll

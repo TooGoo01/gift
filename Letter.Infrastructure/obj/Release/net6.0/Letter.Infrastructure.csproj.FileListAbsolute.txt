@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\bin\Release\net6.0\Letter.Infrastructure.deps.json
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\bin\Release\net6.0\Letter.Infrastructure.dll
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\bin\Release\net6.0\Letter.Infrastructure.pdb
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\bin\Release\net6.0\Letter.DataAccess.dll
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\bin\Release\net6.0\Letter.DataAccess.pdb
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.dll
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\refint\Letter.Infrastructure.dll
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\Letter.Infrastructure.pdb
+C:\Users\Admin\Desktop\gift\Letter.Infrastructure\obj\Release\net6.0\ref\Letter.Infrastructure.dll
